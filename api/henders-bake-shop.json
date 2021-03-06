@@ -1,0 +1,13 @@
+{
+    "id": "henders-bake-shop",
+    "name": "Hender's Bake Shop",
+    "address": "22 North Main St",
+    "phone": "(802) 560-7110",
+    "hours": "8:00 am - 2:00 pm",
+    "lat": 44.33919,
+    "lon": -72.75797,
+    "notes": [
+        "Closed Monday - Wednesday.",
+        "Mask required for entry."
+    ]
+}

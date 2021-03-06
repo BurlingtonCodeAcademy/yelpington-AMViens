@@ -1,0 +1,13 @@
+{
+    "id": "prohibition-pig",
+    "name": "Prohibition Pig",
+    "address": "23 South Main St",
+    "phone": " (802) 244-4120",
+    "hours": "4:00 pm - 9:00 pm",
+    "lat": 44.33726,
+    "lon": -72.75606,
+    "notes": [
+        "Excellent local menu.",
+        "Mask required for entry."
+    ]
+}

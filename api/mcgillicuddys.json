@@ -1,0 +1,13 @@
+{
+    "id": "mcgillicuddys",
+    "name": "McGillicuddy's",
+    "address": "3 South Main St",
+    "phone": "(802) 882-8596",
+    "hours": "1:00 am - 11:00 pm",
+    "lat": 44.33809,
+    "lon": -72.75631,
+    "notes": [
+        "American Bar and Grill.",
+        "Take out only."
+    ]
+}
