@@ -1,5 +1,5 @@
+//map.js is the map component for the home page
 // Importing dependencies from react leaflet//
-
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import React from "react";
 import { Link } from 'react-router-dom'
@@ -8,12 +8,13 @@ import { Link } from 'react-router-dom'
 
 function Map(props) {
 
+  //rendering map elements includes tile layer, markers and popups for each marker with links to restaurant page
   return (
     <MapContainer
       id="mapContainer"
       center={[44.34072, -72.7531167]}
       zoom={15}
-      scrollWheelZoom={true}
+      scrollWheelZoom={true}//allowing users to control zoom in, zoom out, dragging
       doubleClickZoom={true}
       zoomControl={true}
       touchZoom={true}

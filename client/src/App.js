@@ -5,7 +5,7 @@ import Restaurant from "./components/Restaurant";
 import NotFound from "./components/404";
 import "./App.css";
 
-//main App function renders all components and routes to different pages switch method
+//main App function renders all components and routes to different pages with the switch method
 function App() {
   return (
     <div id="main">

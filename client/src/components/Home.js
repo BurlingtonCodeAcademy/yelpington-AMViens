@@ -1,3 +1,4 @@
+//home.js is home page with map and restaurant markers
 //importing dependencies from react and react-router-dom
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";

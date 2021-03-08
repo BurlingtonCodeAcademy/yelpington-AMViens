@@ -1,3 +1,4 @@
+//restaurant.js is restaurant page showing specific information for each restaurant per url path
 //importing dependencies from react and react-leaflet
 import { useState, useEffect } from "react";
 import { MapContainer, TileLayer, Marker } from "react-leaflet";
@@ -20,7 +21,8 @@ function Restaurant(props) {
         });
     }
   });
-  //rendering restaurant info and new map with single marker
+  //rendering restaurant info and new map instance with single marker
+  //new center and zoom function allowed by ChangeView functional component
   return (
     <div>
       <a href='/'><button id="backButton">Back to Home</button></a>
