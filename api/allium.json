@@ -1,0 +1,13 @@
+{
+    "id": "allium",
+    "name": "Allium",
+    "address": "3 South Main St",
+    "phone": "(802) 244-8973",
+    "hours": "11:30 am - 2:00 pm",
+    "lat": 44.33759,
+    "lon": -72.75639,
+    "notes": [
+        "Closed Saturday and Sunday.",
+        "Take-out."
+    ]
+}

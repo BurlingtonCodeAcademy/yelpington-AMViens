@@ -1,0 +1,13 @@
+{
+    "id": "kcs-bagel-cafe",
+    "name": "KC's Bagel Cafe",
+    "address": "17 Stowe St",
+    "phone": "(802) 244-1740",
+    "hours": "6:30 am - 2:00 pm",
+    "lat": 44.33803,
+    "lon": -72.75572,
+    "notes": [
+        "Plush bagels for days.",
+        "Take out only."
+    ]
+}
