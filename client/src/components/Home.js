@@ -24,7 +24,7 @@ function Home(props) {
           return (
             <h3 key={index}>
               <Link id="listLink" to={`/restaurant/${name}`}>
-                {name.replace("-", " ")}
+                {name.replaceAll("-", " ")}
               </Link>
             </h3>
           );

@@ -4,10 +4,10 @@
     "address": "1 Stowe St UNIT 2",
     "phone": "(802) 244-0123",
     "hours": "1:0 pm - 9:00 pm",
-    "lat": 44.33604,
-    "lon": -72.75646,
+    "lat": 44.33766,
+    "lon": -72.75610,
     "notes": [
-        "Quaint farm to table American Restaurant.",
+        "Farm to table American.",
         "Take-out Only."
     ]
 }
