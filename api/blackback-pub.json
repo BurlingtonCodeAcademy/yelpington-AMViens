@@ -1,9 +1,9 @@
 {
     "id": "blackback-pub",
     "name": "Blackback Pub",
-    "address": "1 Stowe St UNIT 2",
-    "phone": "(802) 244-0123",
-    "hours": "1:0 pm - 9:00 pm",
+    "address": "1 Stowe St UNIT 2, Waterbury VT",
+    "phone": "Phone: (802) 244-0123",
+    "hours": "Hours: 1:00 pm - 9:00 pm",
     "lat": 44.33766,
     "lon": -72.75610,
     "notes": [

@@ -1,9 +1,9 @@
 {
     "id": "zacharys-pizza",
     "name": "Zachary's Pizza",
-    "address": "2 Butler St",
-    "phone": "(802) 244-5650",
-    "hours": "11:00 am - 10:00 pm",
+    "address": "2 Butler St, Waterbury VT",
+    "phone": "Phone: (802) 244-5650",
+    "hours": "Hours: 11:00 am - 10:00 pm",
     "lat": 44.34280,
     "lon": -72.76005,
     "notes": [

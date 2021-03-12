@@ -18,6 +18,7 @@ function App() {
           <Route path="/restaurant/:id" component={Restaurant} />
           <Route path="*" component={NotFound} />
         </Switch>
+        <h4 id="footer">Website Created by Adam Viens</h4>
       </BrowserRouter>
     </div>
   );

@@ -27,11 +27,11 @@ function Restaurant(props) {
     <div>
       <a href='/'><button id="backButton">Back to Home</button></a>
       <div id="infoContainer">
-        <h2>{restaurantPage.name}</h2>
-        <h3>{restaurantPage.address}</h3>
-        <h3>{restaurantPage.phone}</h3>
-        <h3>{restaurantPage.hours}</h3>
-        <h3>{restaurantPage.notes}</h3>
+        <h2 style={{color: "black", fontFamily: "cursive"}}>{restaurantPage.name}</h2>
+        <h3 style={{fontFamily: "fantasy"}}>{restaurantPage.address}</h3>
+        <h3 style={{fontFamily: "fantasy"}}>{restaurantPage.phone}</h3>
+        <h3 style={{fontFamily: "fantasy"}}>{restaurantPage.hours}</h3>
+        <h3 style={{fontFamily: "fantasy"}}>{restaurantPage.notes}</h3>
       </div>
       <MapContainer
         id="restaurantMap"
@@ -42,7 +42,7 @@ function Restaurant(props) {
         touchZoom={false}
         keyboard={false}
         dragging={false}
-        style={{ height: "450px", width: "750px" }}//ChangeView function below allows for map manipulation
+        style={{ height: "450px", width: "750px", marginRight: "10vw", border: "solid violet 5px", borderRadius: "25%" }}//ChangeView function below allows for map manipulation
       >
           <ChangeView center={[position[0], position[1]]}/>
         <TileLayer

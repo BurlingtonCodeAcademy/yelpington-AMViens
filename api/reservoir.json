@@ -1,9 +1,9 @@
 {
     "id": "reservoir",
     "name": "The Reservoir",
-    "address": "1 South Main St",
-    "phone": "(802) 244-7827",
-    "hours": "4:00 pm - 9:30 pm",
+    "address": "1 South Main St, Waterbury VT",
+    "phone": "Phone: (802) 244-7827",
+    "hours": "Hours: 4:00 pm - 9:30 pm",
     "lat": 44.33772,
     "lon": -72.75644,
     "notes": [

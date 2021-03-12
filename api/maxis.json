@@ -1,9 +1,9 @@
 {
     "id": "maxis",
     "name": "Maxi's",
-    "address": "47 North Main St",
-    "phone": "(802) 244-0910",
-    "hours": "7:30 am - 2:30 pm",
+    "address": "47 North Main St, Waterbury VT",
+    "phone": "Phone: (802) 244-0910",
+    "hours": "Hours: 7:30 am - 2:30 pm",
     "lat": 44.34199,
     "lon": -72.75956,
     "notes": [

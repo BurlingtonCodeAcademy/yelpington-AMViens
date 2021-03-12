@@ -9,11 +9,13 @@ body {
   display: flex;
   justify-content: center;
   color: yellow;
+  background-color: green;
   width: 100%;
 }
 
 /* holds restaurants of waterbury header */
 #headerTwo {
+  background-color: green;
   font-size: 28px;
   display: flex;
   justify-content: center;
@@ -29,24 +31,29 @@ body {
 /* holds restaurant list */
 #listContainer {
   position: absolute;
-  left: 10vw;
+  font-style: oblique;
+  left: 25vw;
   top: 2vh;
   display: inline-block;
-  width: 22vw;
-  height: 65vh;
+  width: 12vw;
+  height: 50vh;
   background-color: lightskyblue;
+  border: solid teal 5px;
+  border-radius: 10%;
 }
 
 /* Home page map */
 #mapContainer {
   position: absolute;
+  border-radius: 10%;
   top: 2vh;
-  right: 5vw;
+  right: 10vw;
 }
 
 /* restaurant page map */
 #restaurantMap {
   position: absolute;
+  
   top: 20vh;
   right: 5vw;
 }
@@ -63,15 +70,31 @@ body {
 
 /* holds specific restaurant info */
 #infoContainer {
-  margin-left: 10vw;
-  margin-top: 10vh;
+  justify-content: center;
+  background-color: teal;
+  width: 15vw;
+  height: 40vh;
+  color: blue;
+  padding-left: 20px;
+  margin-left: 25vw;
+  margin-top: 12vh;
+  border: solid violet 5px;
+  border-radius: 7%;
 }
 
 /* Button returns to home page */
 #backButton {
   position: absolute;
-  top: 2vh;
+  background-color: darkturquoise;
+  top: 5vh;
   left: 5vw;
   width: 10vw;
-  height: 2vw;
+  height: 3vh;
+}
+
+/* footer info */
+#footer {
+  position: absolute;
+  top: 90vh;
+  right: 45vw;
 }

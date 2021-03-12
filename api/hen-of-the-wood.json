@@ -1,9 +1,9 @@
 {
     "id": "hen-of-the-wood",
     "name": "Hen of the Wood",
-    "address": "92 Stowe St",
-    "phone": "(802) 244-7300",
-    "hours": "5:00 pm - 9:00 pm",
+    "address": "92 Stowe St, Waterbury VT",
+    "phone": "Phone: (802) 244-7300",
+    "hours": "Hours: 5:00 pm - 9:00 pm",
     "lat": 44.34215,
     "lon": -72.74815,
     "notes": [
